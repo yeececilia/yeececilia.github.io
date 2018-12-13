@@ -2,14 +2,27 @@
 	font-size: 16px;
 	color:#f5853b;
 	font-weight: bold;
+	text-decoration: underline;
+	
+
 }
 
 #title {
-	font-size: 20px;
+	font-size: 24px;
 	color: white;
 	font-family: Pistara;
 	font-weight: bold;
 	text-align: center;
 	text-shadow: #7fadc5 0.1em 0.1em 0.2em;
 
+}
+
+#title2{
+
+	font-size: 30px;
+	color:white;
+	font-family: Pistara;
+	text-align: center;
+	text-shadow: #7fadc5 0.1em 0.1em 0.2em;
+	font-style: italic;
 }
